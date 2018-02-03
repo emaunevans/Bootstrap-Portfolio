@@ -1,0 +1,8 @@
+ul{
+    list-style-type: none;
+} 
+/* Side-panel */
+ul>li{
+    display: inline-block;
+} 
+
